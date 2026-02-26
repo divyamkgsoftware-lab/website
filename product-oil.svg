@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
-  <rect width="400" height="300" fill="#EDE7DC"/>
-  <rect x="155" y="80" width="90" height="140" rx="12" fill="#A8C8AC"/>
-  <rect x="165" y="90" width="70" height="50" rx="6" fill="#C8DCCB"/>
-  <circle cx="200" cy="85" r="10" fill="#8AB88E"/>
-  <text x="200" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#3D6B45" font-style="italic">Body Oil</text>
-</svg>
