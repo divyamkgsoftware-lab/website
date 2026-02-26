@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Verdant Naturals logo leaf icon">
+  <circle cx="32" cy="32" r="32" fill="#3D6B45"/>
+  <!-- leaf shape -->
+  <path d="M32 10 C18 22, 16 40, 32 54 C48 40, 46 22, 32 10Z" fill="#ffffff" opacity="0.9"/>
+  <!-- center vein -->
+  <line x1="32" y1="10" x2="32" y2="54" stroke="#3D6B45" stroke-width="1.5" opacity="0.7"/>
+  <!-- side veins -->
+  <line x1="32" y1="24" x2="22" y2="32" stroke="#3D6B45" stroke-width="1" opacity="0.5"/>
+  <line x1="32" y1="30" x2="42" y2="36" stroke="#3D6B45" stroke-width="1" opacity="0.5"/>
+  <line x1="32" y1="36" x2="22" y2="42" stroke="#3D6B45" stroke-width="1" opacity="0.5"/>
+</svg>

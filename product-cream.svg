@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#EDE7DC"/>
+  <ellipse cx="200" cy="155" rx="70" ry="40" fill="#C8DCCB"/>
+  <rect x="160" y="115" width="80" height="80" rx="40" fill="#A8C8AC"/>
+  <path d="M170 155 Q200 120 230 155" stroke="#3D6B45" stroke-width="2" fill="none"/>
+  <text x="200" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#3D6B45" font-style="italic">Face Cream</text>
+</svg>

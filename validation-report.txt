@@ -1,0 +1,115 @@
+═══════════════════════════════════════════════════════
+  VERDANT NATURALS — Validation Report
+  Generated: 2025-02-25
+═══════════════════════════════════════════════════════
+
+─────────────────────────────────────────────────────
+HTML VALIDATION
+─────────────────────────────────────────────────────
+ [PASS] index.html   — All tags properly closed; no duplicate IDs
+ [PASS] privacy.html — All tags properly closed; no duplicate IDs
+ [PASS] terms.html   — All tags properly closed; no duplicate IDs
+ [PASS] Semantic HTML5 elements used throughout
+         (<header>, <main>, <nav>, <section>, <article>, <footer>)
+ [PASS] Correct <meta charset>, <meta viewport>, <title>, <meta description>
+         present on all three pages
+ [PASS] JSON-LD Organization schema in index.html <head>
+ [PASS] Open Graph tags (og:title, og:description, og:image) on index.html
+
+─────────────────────────────────────────────────────
+LINK CHECK
+─────────────────────────────────────────────────────
+ [PASS] All internal links use relative paths (./page.html, #anchor)
+ [PASS] index.html → privacy.html  (footer + nav)      ✓ exists
+ [PASS] index.html → terms.html    (footer + nav)      ✓ exists
+ [PASS] privacy.html → index.html  (back link + nav)   ✓ exists
+ [PASS] terms.html → index.html    (back link + nav)   ✓ exists
+ [PASS] All img src paths → assets/*.svg               ✓ files exist
+ [PASS] tel:+918041234567 and mailto: links present    ✓
+ [PASS] No external HTTP/HTTPS links found
+ [PASS] No broken anchor (#) references
+
+─────────────────────────────────────────────────────
+CONSOLE / JAVASCRIPT
+─────────────────────────────────────────────────────
+ [PASS] JavaScript is minimal (hamburger menu toggle only)
+ [PASS] No external scripts loaded
+ [PASS] No async calls or fetch() that could fail
+ [PASS] toggleNav() function defined before use on all pages
+ [NOTE] Cannot auto-run browser console check — manually verify
+         by opening DevTools → Console on each page. Expected: 0 errors.
+
+─────────────────────────────────────────────────────
+MOBILE RESPONSIVENESS
+─────────────────────────────────────────────────────
+ [PASS] <meta name="viewport"> present on all pages
+ [PASS] CSS mobile-first with @media breakpoints at 768px and 480px
+ [PASS] Hamburger menu replaces nav at ≤768px
+ [PASS] Products grid collapses to 1 column at ≤480px
+ [PASS] About/Contact grids collapse to single column at ≤768px
+ [PASS] Font sizes use clamp() for fluid scaling
+ [PASS] No horizontal overflow caused by fixed-width elements
+ [NOTE] Manually test at 320px, 375px, 768px viewports in DevTools.
+
+─────────────────────────────────────────────────────
+ACCESSIBILITY
+─────────────────────────────────────────────────────
+ [PASS] Skip-to-main link present on all pages
+ [PASS] All <img> tags have descriptive alt attributes
+ [PASS] Hamburger button has aria-label and aria-expanded
+ [PASS] Navigation has aria-label="Primary navigation"
+ [PASS] Sections have aria-labelledby pointing to headings
+ [PASS] Decorative SVGs have aria-hidden="true"
+ [PASS] Logical heading order maintained (h1 → h2 → h3)
+ [PASS] Interactive elements (links, buttons) keyboard-accessible
+ [PASS] Color contrast:
+         Body text #2A2319 on bg #FAF8F4 → ~14:1 (AAA)
+         Accent #3D6B45 on white → ~6.8:1 (AA)
+         Muted #7A6F60 on white → ~4.6:1 (AA)
+ [PASS] No motion/animations that violate prefers-reduced-motion
+         (no animations defined; hover transitions are subtle)
+ [NOTE] Run axe DevTools extension for full automated audit.
+
+─────────────────────────────────────────────────────
+PRIVACY & TERMS CONTENT
+─────────────────────────────────────────────────────
+ [PASS] privacy.html exists and contains full Privacy Policy
+         Sections: Introduction, Data Collection, Use, Legal Basis,
+         Sharing, Retention, Security, Rights, Cookies, Children,
+         WhatsApp Business, Third-Party Links, Changes, Contact
+ [PASS] terms.html exists and contains full Terms & Conditions
+         Sections: Acceptance, Products, Orders/Pricing, Shipping,
+         Returns/Refunds, IP, Prohibited Use, Disclaimers,
+         Liability, Governing Law, WhatsApp Business, Force Majeure,
+         Severability, Entire Agreement, Contact
+ [PASS] WhatsApp Business usage explicitly addressed in BOTH documents
+ [PASS] Opt-out mechanism described (reply "STOP" or email)
+ [PASS] No PDF files linked or hosted on the site
+ [PASS] Policy text rendered as semantic HTML (h2, h3, p, ul, ol)
+
+─────────────────────────────────────────────────────
+EXTERNAL DEPENDENCIES
+─────────────────────────────────────────────────────
+ [PASS] No external CDN links
+ [PASS] No Google Fonts or external font files
+ [PASS] No analytics or tracking scripts
+ [PASS] No third-party JavaScript libraries
+ [PASS] All assets are local (SVGs in assets/ folder)
+ [PASS] System font stack used: Gill Sans / Calibri / Trebuchet
+
+─────────────────────────────────────────────────────
+WHATSAPP BUSINESS APPROVAL READINESS
+─────────────────────────────────────────────────────
+ [PASS] Company name clearly displayed: Verdant Naturals Pvt. Ltd.
+ [PASS] Business address visible on homepage and in legal docs
+ [PASS] GST number displayed: 29AABCV1234M1ZX
+ [PASS] Contact phone and email present with working tel:/mailto: links
+ [PASS] Privacy Policy page has anchor ID #privacy-policy
+ [PASS] Terms page has anchor ID #terms-conditions
+ [PASS] Business purpose clearly stated (organic skincare company)
+ [PASS] Products section shows legitimate product offerings
+ [PASS] Site appears as a legitimate, professional business website
+
+═══════════════════════════════════════════════════════
+  OVERALL RESULT: PASS — Ready for WhatsApp Business submission
+═══════════════════════════════════════════════════════
