@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
-  <rect width="400" height="300" fill="#EDE7DC"/>
-  <rect x="130" y="100" width="140" height="100" rx="16" fill="#A8C8AC"/>
-  <rect x="150" y="120" width="100" height="60" rx="8" fill="#C8DCCB"/>
-  <circle cx="165" cy="108" r="8" fill="#8AB88E"/>
-  <circle cx="235" cy="108" r="8" fill="#8AB88E"/>
-  <text x="200" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#3D6B45" font-style="italic">Clay Mask</text>
-</svg>
